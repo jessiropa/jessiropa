@@ -1,12 +1,13 @@
-# Hallo Semuanya!
+<h1 align="center">
+  Hello, I'm Jessi!
+</h1>
 
-Perkenalkan nama saya **Jessi Ropa**.  
+A **Computer Science Student** From Indonesia. 
 
-Aku seorang mahasiswa **Ilmu Komputer** tahun ke-3.
-
-Kini Aku tertarik mengenai web developer dan sedang mendalaminya khususnya **Front End**.
-
-Jika kamu tertarik untuk berkenalan denganku, silahkan ikuti akun [Instagram](https://www.instagram.com/jessychrystin/)-ku ya.
+### **About Me!**
+ * I am interested in becoming a full stack developer.
+ * Now, I'm studying about Front End Developer.
+ * I am a student in the 3rd year majoring in computer science.
 
 ## 🛠 Programming Languages
 ![HTML5](https://img.icons8.com/color/30/html-5.png)![CSS3](https://img.icons8.com/color/30/css3.png)![JavaScript](https://img.icons8.com/color/30/javascript.png)
