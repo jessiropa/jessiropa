@@ -23,3 +23,7 @@ Jika kamu tertarik untuk berkenalan denganku, silahkan ikuti akun [Instagram](ht
 <a href="https://www.instagram.com/jessychrystin">
   <img align="left" alt="akd's Instagram" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
+</a>
+<a href="mailto:kristinjessi9700@gmail.com">
+  <img align="left" alt="akd's codechef" width="70px" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" />
+</a>
