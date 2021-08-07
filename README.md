@@ -15,3 +15,11 @@ Jika kamu tertarik untuk berkenalan denganku, silahkan ikuti akun [Instagram](ht
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jessiropa&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+#### Connect With Me
+<a href="https://github.com/jessiropa">
+  <img align="left" alt="akd's Github" width="100px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/jessychrystin">
+  <img align="left" alt="akd's Instagram" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
