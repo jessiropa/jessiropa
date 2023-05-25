@@ -1,13 +1,6 @@
 <h1 align="center">
   Hello, I'm Jessi!
 </h1>
-
-## 🛠 Programming Languages
-![HTML5](https://img.icons8.com/color/30/html-5.png)![CSS3](https://img.icons8.com/color/30/css3.png)![JavaScript](https://img.icons8.com/color/30/javascript.png)
-
-## 🖥️ Tools
-![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)![Github](https://img.icons8.com/material-outlined/30/github.png)![Windows](https://img.icons8.com/color/30/windows-10.png)
-
 ## Github Statistic
 <p align="left">
 <a href="https://github.com/jessiropa">
