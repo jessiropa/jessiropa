@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Jessi. I’m interested in Web Development <br>
+👋 Hello, I'm Jessi. I’m interested in Web Development <br>
 
 
 # 💻 Tech Stack:
@@ -15,8 +15,6 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jessiropa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </a>
 </p>
----
-[![](https://visitcount.itsvg.in/api?id=chocobettercodes&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## Connect With Me
 <a href="https://github.com/jessiropa">
